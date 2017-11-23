@@ -1,2 +1,2 @@
 # TimedYTAdSkip
-Skips Youtube Ads after 30s
+Tampermonkey script that skips Youtube ads after 30s. Tested in Chrome 62 under Fedora.

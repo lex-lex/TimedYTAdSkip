@@ -67,3 +67,4 @@ enqueueTimedYTSkip = function(timeout, depth) {
     document.querySelector('#movie_player').addEventListener("onApiChange", "timedYTSkipApiChangeListener");
     enqueueTimedYTSkip(30000, 0);
 })();
+

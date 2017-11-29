@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Timed Ad skip on Youtube
 // @namespace    org.whatgoeshere.questionmark
-// @version      3.14
+// @version      3.141
 // @description  Skip youtube ads after 30s
 // @author       lex-lex
 // @match        https://www.youtube.com/watch?*
